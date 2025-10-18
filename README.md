@@ -14,7 +14,6 @@ I'm Aditi, a Computer Science student with a strong foundation in Python, machin
 - **Email:** aditisony027@gmail.com
 - **LinkedIn:** [linkedin.com/in/aditisoni27](https://linkedin.com/in/aditisoni27)
 - **GitHub:** [github.com/aditii27](https://github.com/aditii27)
-- **Location:** Jabalpur, Madhya Pradesh
 ---
 ### 👩‍💻 Projects
 - **Seatbelt Detection** (Aug 2024)
@@ -28,10 +27,10 @@ I'm Aditi, a Computer Science student with a strong foundation in Python, machin
 - **Shri Ram Institute of Technology, Jabalpur** (2022-2026)
   - B.Tech in Computer Science and Engineering
   - CGPA: 8.47
-- **Model High School of Excellence, Jabalpur M.P.** (2021-2022)
+- **Model High School of Excellence, Jabalpur.** (2021-2022)
   - Higher Secondary, Madhya Pradesh Board of Secondary Education
   - Percentage: 77%
-- **Little Nursery High School, Jabalpur M.P.** (2019-2020)
+- **Little Nursery High School, Jabalpur** (2019-2020)
   - Secondary, Madhya Pradesh Board of Secondary Education
   - Percentage: 87%
 ---
