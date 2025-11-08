@@ -13,7 +13,7 @@ I'm Aditi, a Computer Science student with a strong foundation in Python, machin
 ### 📬 Contact Me
 - **Email:** aditisony027@gmail.com
 - **LinkedIn:** [linkedin.com/in/aditisoni27](https://linkedin.com/in/aditisoni27)
-- **GitHub:** [github.com/aditii27](https://github.com/aditii27)
+
 ---
 ### 👩‍💻 Projects
 - **Seatbelt Detection** (Aug 2024)
