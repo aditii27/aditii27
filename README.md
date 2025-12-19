@@ -23,8 +23,8 @@ I'm Aditi, a Computer Science student with a strong foundation in Python, machin
   - Designed and Developed An AI-powered travel assistant application tailored for the Indian market. Created by Tech-Matrix Solvers in IIITDM HackByte3.0.
   - **Technologies Used:** Python, GRadio, API, MongoDB, NodeJS, MCP.
 -  **AI-Health Advisor** 
-  - Built an AI-powered health assistant that generates personalized weekly diet and exercise plans by combining modern medical data with Ayurvedic wellness insights, delivered via an interactive Hugging Face Space interface. Created by HackGirls in HackSRIT'25.
-  - **Technologies Used:** Python, Streamlit, LangChain-Groq (Llama 3), dotenv, Torch, HTML/CSS.
+      Built an AI-powered health assistant that generates personalized weekly diet and exercise plans by combining modern medical data with Ayurvedic wellness insights, delivered via an interactive Hugging Face Space interface. Created by HackGirls in HackSRIT'25.
+      **Technologies Used:** Python, Streamlit, LangChain-Groq (Llama 3), dotenv, Torch, HTML/CSS.
 ---
 ### 🎓 Education
 - **Shri Ram Institute of Technology, Jabalpur** (2022-2026)
